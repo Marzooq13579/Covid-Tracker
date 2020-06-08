@@ -1,5 +1,5 @@
 # Covid-Tracker
-This  website gives the stats of Covid across the globe. You can try it out by clicking the url next to a description.
+This  website gives the stats of Covid across the globe. You can try it out by clicking the url next to the description.
 
 This is built with Reactjs, Material-UI and  Covid-19 API
 
